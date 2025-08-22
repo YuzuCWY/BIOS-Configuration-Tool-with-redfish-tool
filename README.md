@@ -13,9 +13,8 @@ How to change BIOS tokens: (except password)
 
 Change PW:
 1) enter bmc ip , username and pw, and PW attribute name (default should be SETUP001)
-  2a) if BIOS haven't set any PW, leave it blank and just enter the new pw
-    3a) press "change PW"
-    4a) press "Reboot"
-  2b) if BIOS have set PW before, enter old PW and new PW, then press "Change PW"
-    3a) press "change PW"
-    4a) press "Reboot"
+2) if BIOS haven't set any PW, leave it blank and just enter the new pw;
+ else if BIOS have set PW before, enter old PW and new PW, then press "Change PW"
+3) press "change PW"
+4) press "Reboot"
+
